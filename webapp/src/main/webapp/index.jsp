@@ -5,4 +5,4 @@
 <h3> Test1: deploiement sur VM </h3>
 <h3> Test2: deploiement sur un conteneur </h3>
 <h3> Test3: deploiement sur un conteneur via Ansible</h3>
-
+<h3> Test4: deploiement sur un conteneur docker via Ansible</h3>
