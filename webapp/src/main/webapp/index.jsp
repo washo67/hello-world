@@ -10,3 +10,5 @@
 <h3> Test6: deploiement CI-CD auto sur Kubernetes - V1</h3>
 <h3> Test7: deploiement CI-CD auto sur Kubernetes - Mise a jour</h3>
 
+<h3> The end</h3>
+
