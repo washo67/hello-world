@@ -8,4 +8,5 @@
 <h3> Test4: deploiement sur un conteneur docker via Ansible</h3>
 <h3> Test5: deploiement CI-CD sur Kubernetes via Ansible</h3>
 <h3> Test6: deploiement CI-CD auto sur Kubernetes - V1</h3>
+<h3> Test7: deploiement CI-CD auto sur Kubernetes - Mise a jour</h3>
 
