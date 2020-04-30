@@ -6,5 +6,5 @@
 <h3> Test2: deploiement sur un conteneur </h3>
 <h3> Test3: deploiement sur un conteneur via Ansible</h3>
 <h3> Test4: deploiement sur un conteneur docker via Ansible</h3>
-<h3> Test5: deploiement sur Kubernetes via Ansible</h3>
+<h3> Test5: deploiement CI-CD sur Kubernetes via Ansible</h3>
 
